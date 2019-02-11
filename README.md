@@ -11,7 +11,7 @@ Beginning with a Complete Interactive Course and Interactive Textbook: <a href="
 - Includes Grade 12 Level Concepts
 - Includes Example Projects
 
-Coursera University of Alberta Python Course: - <a href="https://www.coursera.org/learn/problem-solving-programming-video-games">Click Here</a>
+Coursera University of Alberta Python Course: <a href="https://www.coursera.org/learn/problem-solving-programming-video-games">Click Here</a>
 - This course has additional information for summer follow-up and University of Alberta Credit
 
 Additional MOOC Providers: evaluate the one that works best for you
