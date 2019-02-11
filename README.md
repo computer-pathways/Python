@@ -16,10 +16,10 @@ Coursera University of Alberta Python Course: - <a href="https://www.coursera.or
 # To Include
 
 University of Alberta Python Course and Information for Summer Follow-up
--
+- .
 
 MOOC Providers: evaluate the one that works best for you
-- <a href="https://www.w3schools.com/PYTHON/default.asp">w3 Schools Python</a>
+- <a href="https://www.w3schools.com/PYTHON/default.asp">W3 Schools Python</a>
 - <a href="https://www.codecademy.com/learn/learn-python">Code Academy: Learning Python 2</a>
 - <a href="https://www.codecademy.com/learn/learn-python-3">Code Academy: Learning Python 3</a>
 - <a href="https://www.learnpython.org/">Learng Python</a>
