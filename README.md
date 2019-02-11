@@ -10,12 +10,13 @@ Beginning with a Complete Interactive Course and Interactive Textbook: <a href="
 - Includes Example Projects
 
 Coursera University of Alberta Python Course: - <a href="https://www.coursera.org/learn/problem-solving-programming-video-games">Click Here</a>
+
 ---
 
 # To Include
 
 University of Alberta Python Course and Information for Summer Follow-up
-- 
+-
 
 MOOC Providers: evaluate the one that works best for you
 - <a href="https://www.w3schools.com/PYTHON/default.asp">w3 Schools Python</a>
