@@ -20,6 +20,10 @@ Additional MOOC Providers: evaluate the one that works best for you
 - <a href="https://www.codecademy.com/learn/learn-python-3">Code Academy: Learning Python 3</a>
 - <a href="https://www.learnpython.org/">Learng Python</a>
 
+Example Special Projects from Mr. Mercer's Saved Files
+- <a href="https://github.com/QEHS-SpecialProjects/Python_Password-Generator">Python Password Generator</a>
+- <a href="https://github.com/QEHS-SpecialProjects/Python_CrossWordSolver">Python Crossword Solver</a>
+
 ---
 
 # To Include
