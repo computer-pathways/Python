@@ -3,7 +3,7 @@ Resources to Learn and Complete Projects in Python
 
 **UNDER CONSTRUCTION**
 
-Python YouTube Channel by Microsoft: `youtube.com/playlist?list=PLlrxD0HtieHhS8VzuMCfQD4uJ9yne1mE6&app=desktop`
+(Python YouTube Channel by Microsoft)[youtube.com/playlist?list=PLlrxD0HtieHhS8VzuMCfQD4uJ9yne1mE6&app=desktop]
 
 Alternate Flipped Classroom Resources (<a href="https://drive.google.com/drive/folders/13sIgJRE41ANNYtijU0XMAuSVDTHTPx10">See Mr. Mercer</a>):
 
